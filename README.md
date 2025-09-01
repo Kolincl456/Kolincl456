@@ -1,5 +1,5 @@
 # 💫 About Me:
-{<br><br># Nombre:👨‍💼​Kolin Caño León,<br># ​Título: 💻Ingeniero en sistemas,<br># Género: 🧔🏽 Hombre,<br># Edad: 25 años,<br># Nacionalidad: 🇬🇹 Guatemalteca,<br># Gustos: 🎮 Jugar videojuegos,<br>🍕 Comer pizza,<br>🎶 Escuchar música.<br># 🎧 Música: Clásica, Rock y electrónica,<br># Especialidad: 👩🏾‍💻​ Programador Backend,<br>🗃️Administrador de base de datos,<br><br>}
+{<br><br># Nombre:👨‍💼​Kolin Caño León,<br># ​Título: 💻Ingeniero en sistemas,<br># Género: 🧔🏽 Hombre,<br># Edad: 25 años,<br># Nacionalidad: 🇬🇹 Guatemalteca,<br># Gustos: 🎮 Jugar videojuegos,🎶 Escuchar música.<br># 🎧 Música: Clásica, Rock y electrónica,<br># Especialidad: 👩🏾‍💻​ Programador Backend,<br>🗃️Administrador de base de datos,<br><br>}
 
 
 ## 🌐 Socials:
